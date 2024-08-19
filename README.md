@@ -1,5 +1,5 @@
-<h1>Hi, 👋🏽 I'm AuraBee :) <br/><a href="https://github.com//AuraBee">Programming</a> <a href="https://www.linkedin.com/in/askye-qa-ux-webdeveloper-cybersec/">,Web Design, Cybersecurity</a></h1>
-<h3> Devoted technologist, passionate about web design, code, and cybersecurity. </h3>
+<h1>Hi, 👋🏽 I'm AuraBee :) <br/><a href="https://github.com//AuraBee">Programming</a> <a href="https://www.linkedin.com/in/askye-qa-ux-webdeveloper-cybersec/">QA, Programming, Web Design, Cybersecurity</a></h1>
+<h3> Devoted technologist, passionate about QA, web design, code, and cybersecurity. </h3>
 </br>
 
 <h2> 👩🏽‍💻 Cybersecurity: </h2>
