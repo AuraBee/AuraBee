@@ -1,4 +1,4 @@
-<p>Hi, 👋🏽 <br/><a href="https://github.com//AuraBee">Programming,</a> <a href="https://www.linkedin.com/in/askye-qa-ux-webdeveloper-cybersec/">QA, Web Design, Cybersecurity</a></p>
+<p>Hi, 👋🏽 <br/><a href="https://github.com//AuraBee">Software Test Engineering,</a> <a href="https://www.linkedin.com/in/askye-qa-ux-webdeveloper-cybersec/"> Programming, UX/UI Design, Cybersecurity</a></p>
 <p> Technologist, QA Engineer, web design, cybersecurity. </p>
 </br>
 
