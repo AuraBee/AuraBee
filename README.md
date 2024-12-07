@@ -1,5 +1,5 @@
-<h1>Aura Bee</h1>
-👋
+<h1>Aura Bee 👋</h1>
+
 Specialising in:
 </br>
 <a href="https://github.com//AuraBee">Software Test Engineering,</a> 
